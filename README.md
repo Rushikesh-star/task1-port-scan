@@ -26,7 +26,7 @@ Files
 - Screenshot(s): terminal running scan (if added)
 
 Wireshark Capture
--Captured packets during Nmap scan are saved in portscan_capture.pcap.
+- Captured packets during Nmap scan are saved in portscan_capture.pcap.
 
 Interview Questions Prepared
 - What is an open port?
