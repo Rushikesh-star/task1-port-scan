@@ -1,0 +1,21 @@
+# Nmap 7.95 scan initiated Mon Aug  4 11:02:13 2025 as: /usr/lib/nmap/nmap --privileged -sS -oN scan_result.txt 192.168.111.0/24
+Nmap scan report for 192.168.111.17
+Host is up (0.00016s latency).
+All 1000 scanned ports on 192.168.111.17 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+MAC Address: CC:47:40:37:CC:BB (AzureWave Technology)
+
+Nmap scan report for 192.168.111.69
+Host is up (0.0085s latency).
+Not shown: 999 closed tcp ports (reset)
+PORT   STATE SERVICE
+53/tcp open  domain
+MAC Address: CA:60:06:C9:94:50 (Unknown)
+
+Nmap scan report for 192.168.111.66
+Host is up (0.0000050s latency).
+Not shown: 999 closed tcp ports (reset)
+PORT   STATE SERVICE
+80/tcp open  http
+
+# Nmap done at Mon Aug  4 11:02:23 2025 -- 256 IP addresses (3 hosts up) scanned in 9.91 seconds
