@@ -1,4 +1,3 @@
-# task1-port-scan
 
 # Task 1 – Scan Local Network for Open Ports
 
